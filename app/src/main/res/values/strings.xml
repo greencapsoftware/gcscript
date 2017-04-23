@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GCSCript</string>
+    <string name="cript">Criptografar</string>
+    <string name="back">Voltar</string>
+    <string name="decript">Descriptografar</string>
+    <string name="masterTitle">GCSCript</string>
+    <string name="password_">Senha:</string>
+    <string name="login">Entrar</string>
+    <string name="exit">Sair</string>
+    <string name="pwdGenerate">Gerar Senha</string>
+    <string name="passwordRetype_">Redigite a Senha:</string>
+    <string name="masterPwdMessageGenerated">Gerar Senha Master?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="masterPwd">Senha Master</string>
+</resources>
