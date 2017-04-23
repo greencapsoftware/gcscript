@@ -1,0 +1,2 @@
+# gcscript
+Criptografador de Arquivos
